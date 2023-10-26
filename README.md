@@ -1,4 +1,4 @@
-### Hi there 👋
+### SW 전문인재 Team Project! 👋
 
 <!--
 **tns250cpp/tns250cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
