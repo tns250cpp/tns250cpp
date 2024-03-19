@@ -10,6 +10,8 @@
 - `Email` | tns250cpp@naver.com
 - `Notion` | <a href="https://thankful-cuticle-e53.notion.site/0bb888c3879c4de59805eeb36072527a?pvs=4" target="_blank">[https://unruly-promise-1c1.notion.site/2d9050494aed413e9e6731cb49b4e179?pvs=4](https://thankful-cuticle-e53.notion.site/0bb888c3879c4de59805eeb36072527a?pvs=4)</a>
 
+
+
 ## 👋연혁<br/>
 |활동|기간|비고|
 |---|---|---|
@@ -18,11 +20,17 @@
 |S/W 전문인재양성|2023.08~2023.12| S/W 전문인재양성 클라우드/백엔드 트랙 1기 활동|
 |678 코딩 스터디 |2024.01~|개인 동아리 활동|
 
+
+
 ## ⚙프로젝트 경험
 
 - `678산책 메이트` | 실시간 미세먼지 정보, 공원 제공 및 사용자 매칭 서비스
 - `GitHub` | (https://github.com/tns250cpp/678)
 - `Notion` | [https://unruly-promise-1c1.notion.site/a00e001a30254db1b99d082ae94a67dc?pvs=25](https://alive-antler-02c.notion.site/678-a00e001a30254db1b99d082ae94a67dc?pvs=4)
+
+- `ERP 산출물 관리` | 대학(서경대학교), 기업(D-focus) 협력형 프로젝트, WBS의 폴더에 하위계층인 파일을 생성, 삭제, 조회하는 산출물 관리 기능
+- `GitHub` | (https://github.com/tns250cpp/ERP_DeliverablesManagementService)
+- `Notion` | [https://thankful-cuticle-e53.notion.site/ERP-_DFOCUS-1ed62c56c9af46f1bdac6ccf3f6fa64f?pvs=4]
 <br>
 
 
