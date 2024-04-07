@@ -8,7 +8,7 @@
 
 - `Email` | sangjuncho232@gmail.com
 - `Email` | tns250cpp@naver.com
-- `Notion` | <a href="https://thankful-cuticle-e53.notion.site/0bb888c3879c4de59805eeb36072527a?pvs=4" target="_blank">[https://unruly-promise-1c1.notion.site/2d9050494aed413e9e6731cb49b4e179?pvs=4](https://thankful-cuticle-e53.notion.site/0bb888c3879c4de59805eeb36072527a?pvs=4)</a>
+- `Notion` | <a href="https://thankful-cuticle-e53.notion.site/0bb888c3879c4de59805eeb36072527a?pvs=4" target="_blank">[https://thankful-cuticle-e53.notion.site/0bb888c3879c4de59805eeb36072527a](https://thankful-cuticle-e53.notion.site/0bb888c3879c4de59805eeb36072527a)</a>
 
 
 
